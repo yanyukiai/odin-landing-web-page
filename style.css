@@ -1,13 +1,28 @@
-.section-1 {
-  background-color: #1f2937;
-  color: #f9faf8;
-  padding: 5px 120px 60px;
+/* Global Style */
+body {
+  margin: 0px;
+  padding: 0 100px 0;
+}
+
+li {
+  list-style: none;
 }
 
 .header,
 .header-links,
-.title {
+.title,
+.lists-of-places,
+.place {
   display: flex;
+}
+
+/* Section 1 Style */
+
+.section-1 {
+  background-color: #1f2937;
+  color: #f9faf8;
+  padding: 5px 120px 60px;
+  /* margin: 0 100px 0; */
 }
 
 .header,
@@ -35,7 +50,6 @@
 }
 
 .header-links {
-  list-style: none;
   gap: 30px;
 }
 
@@ -57,4 +71,37 @@ button {
   background-color: #3882f6;
   border-radius: 8px;
   padding: 6px;
+}
+
+/* Section 2 Style */
+
+h2 {
+  font-size: 36px;
+  font-weight: 900;
+  color: #1f2937;
+  text-align: center;
+}
+
+.lists-of-places {
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 0;
+}
+
+.place {
+  flex-direction: column;
+  width: 200px;
+  height: 205px;
+  padding: 5px;
+  gap: 5px;
+}
+
+.place-of-interest-image {
+  height: 150px;
+}
+
+.place-img-subtext {
+  height: 50px;
+  font-size: 12px;
+  text-align: center;
 }
