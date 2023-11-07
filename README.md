@@ -10,7 +10,7 @@ You can access the live site [here](https://yanyukiai.github.io/odin-landing-web
 
 The images used in this project were generously provided by the following photographers on Unsplash:
 
-- [Bangyu Wang][https://unsplash.com/@bangyuwang]
-- [Lavinia Occeña][https://unsplash.com/@laviniaxcn]
-- [Yuheng Chen][https://unsplash.com/@myosotis]
-- [Yubin Zhou][https://unsplash.com/@yubinzhou0314]
+- [Bangyu Wang](https://unsplash.com/@bangyuwang)
+- [Lavinia Occeña](https://unsplash.com/@laviniaxcn)
+- [Yuheng Chen](https://unsplash.com/@myosotis)
+- [Yubin Zhou](https://unsplash.com/@yubinzhou0314)
