@@ -105,3 +105,29 @@ h2 {
   font-size: 12px;
   text-align: center;
 }
+
+/* Section 3 style */
+.section-3 {
+  background-color: #e5e7eb;
+  padding: 50px 200px 50px;
+  margin-top: 50px;
+  font-style: italic;
+  font-size: 18px;
+  color: #1f2937;
+}
+
+.source {
+  font-style: normal;
+  font-weight: bold;
+  text-align: end;
+}
+
+/* Footer style */
+.footer {
+  background-color: #1f2937;
+  color: #e5e7eb;
+  text-align: center;
+  font-size: 12px;
+  padding: 20px;
+  margin-top: 50px;
+}
